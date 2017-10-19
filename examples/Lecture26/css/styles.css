@@ -2,6 +2,6 @@
   margin-bottom: 15px;
 }
 .row > div {
-  border: 2px solid red;
-  background-color: gray;
+  border: 4px solid #b0fa8f;
+  background-color: #fa708f;
 }
