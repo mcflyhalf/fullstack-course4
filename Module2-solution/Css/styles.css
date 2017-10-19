@@ -43,6 +43,7 @@ p {
   
 }
 
+
 #box1{
 background-color: #E7B140;
 }
@@ -91,5 +92,10 @@ background-color: #B140E7;
   
   
     width: 90%;
+    margin-left: 5%;
+    margin-right: 5%; 
+  }
+  section{
+    width: 100%;
   }
 }
